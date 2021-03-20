@@ -9,11 +9,9 @@ A Django web app for framing NFTs
         pip install -r requirements.txt
         cd NFT_Framer
         python manage.py runserver
-        # open localhost:8000 in your browser 
-
-# Authentication
-Use the following credentials to login:
-username: public
-password: iliketoframenfts
+        # open localhost:8000 in your browser and use the following credentials to login:
+        # username: public
+        # password: iliketoframenfts
 
 # How to Use
+Coming soon
